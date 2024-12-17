@@ -1,0 +1,1 @@
+print(f"The Number Of seconds in a day={24*60*60} seconds")
