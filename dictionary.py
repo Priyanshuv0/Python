@@ -1,0 +1,10 @@
+intro={
+    "name":"PriyanshuFF",
+    "age":20,
+    "city":"Hyderabad"
+}
+print(intro)
+intro["city"]="Motihari"
+print(intro)
+intro["veg/Non-Veg"]="veg"
+print(intro)
